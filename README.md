@@ -1,3 +1,5 @@
+Total time: ~5 hours.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 ## Available Scripts
